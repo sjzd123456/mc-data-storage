@@ -213,6 +213,20 @@
               ]
             }
           ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "quality": 1,
+          "name": "lootbag:gameplay/graveyard_crypt",
+          "conditions": [
+            {
+              "condition": "lootbag:biome_condition",
+              "biome_tag": [
+                "graveyard:has_structure/crypt"
+              ]
+            }
+          ]
         }
       ]
     },
