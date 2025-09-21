@@ -199,6 +199,20 @@
               ]
             }
           ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "quality": 1,
+          "name": "lootbag:gameplay/goety_crypt",
+          "conditions": [
+            {
+              "condition": "lootbag:biome_condition",
+              "biome_tag": [
+                "goety:has_structure/crypt"
+              ]
+            }
+          ]
         }
       ]
     },
