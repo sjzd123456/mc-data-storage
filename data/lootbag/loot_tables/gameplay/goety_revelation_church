@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:gift",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "name": "goety_revelation:chests/church_food"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "name": "goety_revelation:chests/church_food_2"
+        }
+      ]
+    }
+  ]
+}
