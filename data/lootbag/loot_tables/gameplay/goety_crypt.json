@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:gift",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "name": "goety:chests/crypt_book"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "name": "goety:chests/crypt_loot"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "name": "goety:chests/crypt_tomb"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "name": "goety:chests/crypt_urn"
+        }
+      ]
+    }
+  ]
+}
