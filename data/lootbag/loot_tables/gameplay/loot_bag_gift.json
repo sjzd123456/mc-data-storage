@@ -227,6 +227,20 @@
               ]
             }
           ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "quality": 1,
+          "name": "lootbag:gameplay/goety_revelation_church",
+          "conditions": [
+            {
+              "condition": "lootbag:biome_condition",
+              "biome_tag": [
+                "goety_revelation:has_structure"
+              ]
+            }
+          ]
         }
       ]
     },
