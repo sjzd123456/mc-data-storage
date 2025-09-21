@@ -249,7 +249,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "weight": 10,
+          "weight": 1,
           "quality": 1,
           "name": "lootbag:gameplay/extra_gift"
         },
