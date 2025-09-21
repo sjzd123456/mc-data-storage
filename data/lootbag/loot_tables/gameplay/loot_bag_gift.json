@@ -11,21 +11,21 @@
           "name": "minecraft:chests/jungle_temple",
           "conditions": [
             {
-              "condition": "${mod_id}:biome_condition",
+              "condition": "lootbag:biome_condition",
               "biome_tag": [
                 "minecraft:has_structure/jungle_temple"
               ]
             }
           ]
         },
-        {
+                {
           "type": "minecraft:loot_table",
           "weight": 10,
           "quality": 1,
           "name": "minecraft:chests/pillager_outpost",
           "conditions": [
             {
-              "condition": "${mod_id}:biome_condition",
+              "condition": "lootbag:biome_condition",
               "biome_tag": [
                 "minecraft:has_structure/pillager_outpost"
               ]
@@ -45,7 +45,7 @@
           "name": "minecraft:chests/abandoned_mineshaft",
           "conditions": [
             {
-              "condition": "${mod_id}:biome_condition",
+              "condition": "lootbag:biome_condition",
               "biome_tag": [
                 "minecraft:has_structure/mineshaft",
                 "minecraft:has_structure/mineshaft_mesa"
@@ -60,7 +60,7 @@
           "name": "minecraft:chests/desert_pyramid",
           "conditions": [
             {
-              "condition": "${mod_id}:biome_condition",
+              "condition": "lootbag:biome_condition",
               "biome_tag": [
                 "minecraft:has_structure/desert_pyramid"
               ]
@@ -74,7 +74,7 @@
           "name": "minecraft:chests/woodland_mansion",
           "conditions": [
             {
-              "condition": "${mod_id}:biome_condition",
+              "condition": "lootbag:biome_condition",
               "biome_tag": [
                 "minecraft:has_structure/woodland_mansion"
               ]
@@ -88,7 +88,7 @@
           "name": "minecraft:chests/ruined_portal",
           "conditions": [
             {
-              "condition": "${mod_id}:biome_condition",
+              "condition": "lootbag:biome_condition",
               "biome_tag": [
                 "minecraft:has_structure/ruined_portal_desert",
                 "minecraft:has_structure/ruined_portal_jungle",
@@ -108,7 +108,7 @@
           "name": "minecraft:chests/shipwreck_treasure",
           "conditions": [
             {
-              "condition": "${mod_id}:biome_condition",
+              "condition": "lootbag:biome_condition",
               "biome_tag": [
                 "minecraft:has_structure/shipwreck_beached",
                 "minecraft:has_structure/shipwreck"
@@ -123,7 +123,7 @@
           "name": "minecraft:chests/buried_treasure",
           "conditions": [
             {
-              "condition": "${mod_id}:biome_condition",
+              "condition": "lootbag:biome_condition",
               "biome_tag": [
                 "minecraft:has_structure/buried_treasure"
               ]
@@ -137,7 +137,7 @@
           "name": "minecraft:chests/nether_bridge",
           "conditions": [
             {
-              "condition": "${mod_id}:biome_condition",
+              "condition": "lootbag:biome_condition",
               "biome_tag": [
                 "minecraft:has_structure/nether_fortress"
               ]
@@ -151,7 +151,7 @@
           "name": "minecraft:chests/end_city_treasure",
           "conditions": [
             {
-              "condition": "${mod_id}:biome_condition",
+              "condition": "lootbag:biome_condition",
               "biome_tag": [
                 "minecraft:has_structure/end_city"
               ]
@@ -162,10 +162,10 @@
           "type": "minecraft:loot_table",
           "weight": 10,
           "quality": 1,
-          "name": "${mod_id}:gameplay/stronghold",
+          "name": "lootbag:gameplay/stronghold",
           "conditions": [
             {
-              "condition": "${mod_id}:biome_condition",
+              "condition": "lootbag:biome_condition",
               "biome_tag": [
                 "minecraft:has_structure/stronghold"
               ]
@@ -176,10 +176,10 @@
           "type": "minecraft:loot_table",
           "weight": 10,
           "quality": 1,
-          "name": "${mod_id}:gameplay/bastion_remnant",
+          "name": "lootbag:gameplay/bastion_remnant",
           "conditions": [
             {
-              "condition": "${mod_id}:biome_condition",
+              "condition": "lootbag:biome_condition",
               "biome_tag": [
                 "minecraft:has_structure/bastion_remnant"
               ]
@@ -190,10 +190,10 @@
           "type": "minecraft:loot_table",
           "weight": 10,
           "quality": 1,
-          "name": "${mod_id}:gameplay/ancient_city",
+          "name": "lootbag:gameplay/ancient_city",
           "conditions": [
             {
-              "condition": "${mod_id}:biome_condition",
+              "condition": "lootbag:biome_condition",
               "biome_tag": [
                 "minecraft:has_structure/ancient_city"
               ]
@@ -209,7 +209,7 @@
           "type": "minecraft:loot_table",
           "weight": 10,
           "quality": 1,
-          "name": "${mod_id}:gameplay/extra_gift"
+          "name": "lootbag:gameplay/extra_gift"
         },
         {
           "type": "minecraft:empty",
