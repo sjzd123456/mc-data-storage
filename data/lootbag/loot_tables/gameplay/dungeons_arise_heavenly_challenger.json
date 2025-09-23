@@ -7,22 +7,22 @@
         {
           "type": "minecraft:loot_table",
           "weight": 10,
-          "name": "dungeons_arise:chests/heavenly_challenger/heavenly_challenger_normal.json"
+          "name": "dungeons_arise:chests/heavenly_challenger/heavenly_challenger_normal"
         },
         {
           "type": "minecraft:loot_table",
           "weight": 10,
-          "name": "dungeons_arise:chests/heavenly_challenger/heavenly_challenger_supply.json"
+          "name": "dungeons_arise:chests/heavenly_challenger/heavenly_challenger_supply"
         },
         {
           "type": "minecraft:loot_table",
           "weight": 10,
-          "name": "dungeons_arise:chests/heavenly_challenger/heavenly_challenger_theater.json"
+          "name": "dungeons_arise:chests/heavenly_challenger/heavenly_challenger_theater"
         },
         {
           "type": "minecraft:loot_table",
           "weight": 10,
-          "name": "dungeons_arise:chests/heavenly_challenger/heavenly_challenger_treasure.json"
+          "name": "dungeons_arise:chests/heavenly_challenger/heavenly_challenger_treasure"
         }
       ]
     }
