@@ -1,1 +1,30 @@
-
+{
+  "type": "minecraft:gift",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "name": "dungeons_arise:chests\heavenly_challenger\heavenly_challenger_normal.json"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "name": "dungeons_arise:chests\heavenly_challenger\heavenly_challenger_supply.json"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "name": "dungeons_arise:chests\heavenly_challenger\heavenly_challenger_theater.json"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "name": "dungeons_arise:chests\heavenly_challenger\heavenly_challenger_treasure.json"
+        }
+      ]
+    }
+  ]
+}
