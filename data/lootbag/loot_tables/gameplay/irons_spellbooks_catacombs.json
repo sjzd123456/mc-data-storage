@@ -7,27 +7,47 @@
         {
           "type": "minecraft:loot_table",
           "weight": 10,
-          "name": "irons_spellbooks:chests/catacombs/armory_loot"
-        },
-        {
-          "type": "minecraft:loot_table",
-          "weight": 10,
-          "name": "irons_spellbooks:chests/catacombs/coffin_loot"
-        },
-        {
-          "type": "minecraft:loot_table",
-          "weight": 10,
           "name": "irons_spellbooks:chests/catacombs/crypt_loot"
         },
         {
           "type": "minecraft:loot_table",
           "weight": 10,
-          "name": "irons_spellbooks:chests/catacombs/hidden_trough_treasure"
+          "name": "irons_spellbooks:chests/generic_magic_treasure"
         },
         {
           "type": "minecraft:loot_table",
           "weight": 10,
           "name": "irons_spellbooks:chests/catacombs/wall_loot"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "name": "irons_spellbooks:chests/magic_bookshelf_loot"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "name": "irons_spellbooks:chests/bookshelf_loot"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "name": "irons_spellbooks:chests/filler_storage_loot"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "name": "irons_spellbooks:chests/wheat"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "name": "irons_spellbooks:chests/component_storage"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "name": "irons_spellbooks:chests/catacombs/coffin_loot"
         }
       ]
     }
