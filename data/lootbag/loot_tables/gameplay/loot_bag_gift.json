@@ -218,6 +218,20 @@
           "type": "minecraft:loot_table",
           "weight": 10,
           "quality": 1,
+          "name": "lootbag:gameplay/goety_graveyard",
+          "conditions": [
+            {
+              "condition": "lootbag:biome_condition",
+              "biome_tag": [
+                "goety:has_structure/graveyard"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "quality": 1,
           "name": "lootbag:gameplay/graveyard_crypt",
           "conditions": [
             {
