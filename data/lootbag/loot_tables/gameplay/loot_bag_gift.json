@@ -199,27 +199,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:loot_table",
-          "weight": 1,
-          "quality": 1,
-          "name": "lootbag:gameplay/extra_gift"
         },
-        {
-          "type": "minecraft:empty",
-          "weight": 99
-        }
-      ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
         {
           "type": "minecraft:loot_table",
           "weight": 10,
@@ -275,6 +255,21 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "weight": 1,
+          "quality": 1,
+          "name": "lootbag:gameplay/extra_gift"
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 99
         }
       ]
     }
