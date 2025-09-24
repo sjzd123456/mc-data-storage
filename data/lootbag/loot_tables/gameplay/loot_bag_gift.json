@@ -269,6 +269,20 @@
               ]
             }
           ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "quality": 1,
+          "name": "lootbag:gameplay/irons_spellbooks_catacombs",
+          "conditions": [
+            {
+              "condition": "lootbag:biome_condition",
+              "biome_tag": [
+                "irons_spellbooks_catacombs:has_structure/catacombs"
+              ]
+            }
+          ]
         }
       ]
     },
