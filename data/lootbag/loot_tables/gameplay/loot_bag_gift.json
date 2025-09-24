@@ -257,7 +257,7 @@
             {
               "condition": "lootbag:biome_condition",
               "biome_tag": [
-                "dungeons_arise:has_structure/heavenly_challenger"
+                "dungeons_arise:has_structure/heavenly_challenger_biomes"
               ]
             }
           ]
