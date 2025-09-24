@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:gift",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "name": "irons_spellbooks:chests/catacombs/armory_loot"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "name": irons_spellbooks:chests/catacombs/coffin_loot"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "name": "irons_spellbooks:chests/catacombs/crypt_loot"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "name": "irons_spellbooks:chests/catacombs/hidden_trough_treasure"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "name": "irons_spellbooks:chests/catacombs/wall_loot"
+        }
+      ]
+    }
+  ]
+}
