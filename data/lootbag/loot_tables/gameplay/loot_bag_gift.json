@@ -280,6 +280,20 @@
               ]
             }
           ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "quality": 1,
+          "name": "dungeons_arise:chests/ceryneian_hind/ceryneian_hind_treasure",
+          "conditions": [
+            {
+              "condition": "lootbag:biome_condition",
+              "biome_tag": [
+                "dungeons_arise:has_structure/ceryneian_hind_biomes"
+              ]
+            }
+          ]
         }
       ]
     },
