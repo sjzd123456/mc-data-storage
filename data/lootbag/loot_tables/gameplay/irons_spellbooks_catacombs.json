@@ -27,11 +27,6 @@
         {
           "type": "minecraft:loot_table",
           "weight": 10,
-          "name": "irons_spellbooks:chests/wheat"
-        },
-        {
-          "type": "minecraft:loot_table",
-          "weight": 10,
           "name": "irons_spellbooks:chests/component_storage"
         }
       ]
@@ -53,6 +48,16 @@
           "type": "minecraft:loot_table",
           "weight": 10,
           "name": "irons_spellbooks:chests/catacombs/coffin_loot"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "name": "irons_spellbooks:chests/wheat"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "name": "irons_spellbooks:chests/catacombs/hidden_trough_treasure"
         }
       ]
     }
