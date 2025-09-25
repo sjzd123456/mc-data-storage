@@ -12,11 +12,6 @@
         {
           "type": "minecraft:loot_table",
           "weight": 10,
-          "name": "irons_spellbooks:chests/magic_bookshelf_loot"
-        },
-        {
-          "type": "minecraft:loot_table",
-          "weight": 10,
           "name": "irons_spellbooks:chests/bookshelf_loot"
         },
         {
@@ -58,6 +53,11 @@
           "type": "minecraft:loot_table",
           "weight": 10,
           "name": "irons_spellbooks:chests/catacombs/hidden_trough_treasure"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "name": "irons_spellbooks:chests/magic_bookshelf_loot"
         }
       ]
     }
